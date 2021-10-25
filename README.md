@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zhinoo
+- 👋 Hi, I’m Zhino Junior Front-end developer.
 - 👀 I’m interested in writing Codes, Giving Ideas.
 - 🌱 I’m currently learning HTML, CSS, JS And React.
 - 💞️ I’m looking to collaborate on everthing basied on JS and ReactJs.
